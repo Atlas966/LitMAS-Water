@@ -54,6 +54,7 @@ Unity presets for all shown material are avaiable, use them to get a jump start 
 
 ## Credits
   - [Rexmeck](https://mod.io/u/rexmeck) | LitMAS Template
+  - [Stress Level Zero](https://www.stresslevelzero.com/) | BRDF Lut Function
   - [Safemilk](https://github.com/Safemilk) | [Gerstner Wave Function](https://github.com/Safemilk/GerstnerWavesUnity)
   - [Amplify Creations](https://amplify.pt/) | Amplify Shader Editor Learner Sample Functions
   - [Amplify Shader Editor Community](https://discord.gg/EdrVAP5) | Amplify Community Example Functions
