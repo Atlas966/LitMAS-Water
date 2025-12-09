@@ -15,6 +15,10 @@ LitMAS Water 3 comes with a demo scene to get you started
 Unity presets for all shown material are avaiable, use them to get a jump start on customizing your water appearance.
 ** **
 
+## Custom Shader GUI
+  - The custom built shader GUI that LitMAS Water 3 uses is designed to make the customization process as easy as possible. Neat orgnization and built-in question tooltips serve to guide you though each feature
+** **
+
 # Feature Set
 ## Depth Masked Refaction
   - Mask out ugly ring around objects infront of the water surface with the flip of a switch
