@@ -1,5 +1,7 @@
 # LitMAS Water 3
+
 ## Advanced Unity water shader and system built for BONELAB, created in Amplify
+<img width="500" height="500" alt="LW3 Icon" src="https://github.com/user-attachments/assets/f8055900-0fa3-4aa5-9558-10eea3575bd2" />
 
 LitMAS Water is one of the best made-for-Unity water shaders, built in Amplify Shader Editor, made for BONELAB.
 ** ** 
