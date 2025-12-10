@@ -10,18 +10,26 @@ LitMAS Water is one of the best made-for-Unity water shaders, built in Amplify S
 
 ## Installation Guide
 Installing LitMAS Water is simple:
-Scroll down to **releases**, and download the Unity Package.
+Scroll down to **releases**
+
+<img width="500" height="854" alt="ReleaseButton" src="https://github.com/user-attachments/assets/d9237226-7918-4482-b3dc-576ba93e0aa0" />
+
+Download the newest avaible release
+
+<img width="500" height="825" alt="DownloadButton" src="https://github.com/user-attachments/assets/8938db56-40a5-4542-8177-eff7566f94cb" />
 
 Open it, and import to your project. LitMAS Water installs to `Assets/LitMAS Water`. Open the `/Demo Scene` folder and take a peek at the demo scene to get started.
 
-<img width="780" height="348" alt="InstallsTo" src="https://github.com/user-attachments/assets/3d5dab15-f7a7-451b-bff4-7886f7d2c175" />
+<img width="500" height="348" alt="InstallsTo" src="https://github.com/user-attachments/assets/3d5dab15-f7a7-451b-bff4-7886f7d2c175" />
 
 ** ** 
 
 ## Demo Scene
 LitMAS Water 3 comes with a demo scene to get you started
-- Insert Image
-Unity presets for all shown material are avaiable, use them to get a jump start on customizing your water appearance.
+<img width="1000" height="981" alt="DemoScene" src="https://github.com/user-attachments/assets/a1585cb2-4931-4e5d-8ea4-ce55c4f0dd93" />
+Unity presets for all demo scene materials are avaiable, use them to get a jump start on customizing your water appearance.
+<img width="500" height="441" alt="Presets" src="https://github.com/user-attachments/assets/54dc8807-3df5-4d26-84d8-458fda0b8def" />
+
 ** **
 
 ## Custom Shader GUI
