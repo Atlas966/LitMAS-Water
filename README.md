@@ -33,7 +33,7 @@ Unity presets for all demo scene materials are avaiable, use them to get a jump 
 ** **
 
 ## Custom Shader GUI
-  - The custom built shader GUI that LitMAS Water 3 uses is designed to make the customization process as easy as possible. Neat orgnization and built-in question tooltips serve to guide you though each feature
+  - The custom built shader GUI that LitMAS Water 3 uses is designed to make the customization process as easy as possible. Neat orgnization and built-in '**?**' tooltips serve to guide you though each feature
 <img width="1000" height="1118" alt="ShaderGUI" src="https://github.com/user-attachments/assets/62fbf3c9-d0fd-42ef-8a2f-d9148ca0fe7b" />
 
 
