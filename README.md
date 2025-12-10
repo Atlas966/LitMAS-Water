@@ -14,7 +14,7 @@ Scroll down to **releases**
 
 <img width="500" height="854" alt="ReleaseButton" src="https://github.com/user-attachments/assets/d9237226-7918-4482-b3dc-576ba93e0aa0" />
 
-Download the newest avaible release
+Download the newest available release
 
 <img width="500" height="825" alt="DownloadButton" src="https://github.com/user-attachments/assets/8938db56-40a5-4542-8177-eff7566f94cb" />
 
@@ -34,6 +34,9 @@ Unity presets for all demo scene materials are avaiable, use them to get a jump 
 
 ## Custom Shader GUI
   - The custom built shader GUI that LitMAS Water 3 uses is designed to make the customization process as easy as possible. Neat orgnization and built-in question tooltips serve to guide you though each feature
+<img width="1000" height="1118" alt="ShaderGUI" src="https://github.com/user-attachments/assets/62fbf3c9-d0fd-42ef-8a2f-d9148ca0fe7b" />
+
+
 ** **
 
 # Feature Set
