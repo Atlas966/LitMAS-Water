@@ -9,9 +9,13 @@ LitMAS Water is one of the best made-for-Unity water shaders, built in Amplify S
 ** **
 
 ## Installation Guide
-Installing LitMAS Water is simple.
-Scroll down to released, and download the Unity Package.
+Installing LitMAS Water is simple:
+Scroll down to **releases**, and download the Unity Package.
+
 Open it, and import to your project. LitMAS Water installs to `Assets/LitMAS Water`. Open the `/Demo Scene` folder and take a peek at the demo scene to get started.
+
+<img width="780" height="348" alt="InstallsTo" src="https://github.com/user-attachments/assets/3d5dab15-f7a7-451b-bff4-7886f7d2c175" />
+
 ** ** 
 
 ## Demo Scene
