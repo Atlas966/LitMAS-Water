@@ -45,7 +45,9 @@ Unity presets for all demo scene materials are avaiable, use them to get a jump 
 ## Depth Masked Refaction
   - Mask out ugly ring around objects infront of the water surface with the flip of a switch
 <img width="1000" height="1118" alt="DMR" src="https://github.com/user-attachments/assets/4333299c-df9a-402e-a0c8-40d01b7b6406" />
-
+## Caustics
+  - Project caustics onto any object inside the water volume
+<img width="1000" height="1118" alt="Caustics" src="https://github.com/user-attachments/assets/3ed906fa-b877-4e59-baa1-7ec1b0e29e73" />
 ## Anti-Tiling
   - Most surface features have an optional anti-tiling toggle, allowing them to appear varried and not tiled at any distance
 ## Micro Normals
