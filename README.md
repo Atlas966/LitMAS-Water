@@ -33,7 +33,7 @@ LitMAS Water 3 comes with a demo scene to get you started
 
 Unity presets for all demo scene materials are avaiable, use them to get a jump start on customizing your water appearance.
 
-<img width="500" height="441" alt="Presets" src="https://github.com/user-attachments/assets/54dc8807-3df5-4d26-84d8-458fda0b8def" />
+<img width="1000" height="441" alt="Presets" src="https://github.com/user-attachments/assets/54dc8807-3df5-4d26-84d8-458fda0b8def" />
 
 ** **
 
